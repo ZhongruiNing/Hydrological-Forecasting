@@ -4,7 +4,7 @@ The code of Xinanjiang Model, writen by Python. These codes can be used in hydro
 ## My name
 Zhongrui Ning
 
-## Addess
+## Address
 College of Hydrology and Water Resourses, Hohai University
 
 No 1. Xikang road, Gulou District, Nanjing City, Jiangsu Prov., PR.C
