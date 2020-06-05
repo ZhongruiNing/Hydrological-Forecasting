@@ -7,7 +7,7 @@ Zhongrui Ning
 ## Addess
 College of Hydrology and Water Resourses, Hohai University
 
-Xikang 1 road, Gulou District, Nanjing City, Jiangsu Prov., PR.C
+No 1. Xikang road, Gulou District, Nanjing City, Jiangsu Prov., PR.C
 
 ## Contact Me
 Eamil: hhuning@foxmail.com
