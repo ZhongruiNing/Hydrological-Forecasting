@@ -1,4 +1,4 @@
-# Hydrological-Forecasting
+# Hydrological Forecasting / 水文预报
 The code of Xinanjiang Model, writen by Python. These codes can be used in hydrological forecasting problem. There still are many defects in the code. If you are interested in my project, welcome to contact me.
 
 ## Update in 2020.06.05
